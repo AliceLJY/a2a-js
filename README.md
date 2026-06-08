@@ -1,3 +1,5 @@
+> **[Archived]** This repository is no longer maintained and is kept for history only.
+
 # A2A JavaScript SDK
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
