@@ -1,4 +1,6 @@
-> **[Archived]** This repository is no longer maintained and is kept for history only.
+> **Archived fork snapshot.** This repository is not maintained here. Use
+> [a2aproject/a2a-js](https://github.com/a2aproject/a2a-js) for current code,
+> documentation, packages, and releases.
 
 # A2A JavaScript SDK
 
